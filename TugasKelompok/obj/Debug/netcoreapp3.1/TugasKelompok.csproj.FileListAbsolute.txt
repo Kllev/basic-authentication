@@ -1,0 +1,14 @@
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.exe
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.deps.json
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.runtimeconfig.json
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.runtimeconfig.dev.json
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.dll
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.pdb
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.csproj.AssemblyReference.cache
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.GeneratedMSBuildEditorConfig.editorconfig
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.AssemblyInfoInputs.cache
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.AssemblyInfo.cs
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.csproj.CoreCompileInputs.cache
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.dll
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.pdb
+D:\MII\Visual Studio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.genruntimeconfig.cache
